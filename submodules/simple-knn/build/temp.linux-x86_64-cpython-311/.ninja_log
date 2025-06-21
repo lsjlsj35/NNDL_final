@@ -1,0 +1,4 @@
+# ninja log v5
+0	12242	1750333432684689586	/opt/tiger/vtcl/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	dbc2fc8fa69fe520
+0	26123	1750333446555847201	/opt/tiger/vtcl/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	e6d17415470c5589
+0	47182	1750333467614086575	/opt/tiger/vtcl/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	16d2752f870959e5
